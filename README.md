@@ -47,7 +47,7 @@
 
 #3 Time Series Forecasting
 
-- [2026년 가상 시나리오 예측진행 (Base / PM+30 / PM–20)](scenario_prediction_2026.ipynb)
+- [2026년 가상 시나리오 예측진행 (Base / PM+30 / PM–20)](notebooks/3_prediction/scenario_prediction_2026.ipynb)
 
 #  Expected Outcomes
 - 사전 대응 강화 : 미세먼지 급등 시 ER 수요 예측 → 의료진 및 장비 선제 배치 가능
