@@ -26,6 +26,29 @@
   - Under PM –20 scenario → ER visits rise from ~130,000 (Jan) to ~460,000 (Dec)
   - ER visits surge in spring/summer and peak gap appears in winter
 
+# Project Notebooks
+
+#1 Preprocessing
+
+- [자치구 미세먼지 전처리](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/1_preprocessing/자치구_미세먼지_전처리.ipynb)
+- [응급실 데이터 전처리](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/1_preprocessing/응급실_데이터_전처리.ipynb)
+- [기온데이터 전처리](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/1_preprocessing/기온데이터_전처리.ipynb)
+
+---
+
+#2 Exploratory Data Analysis (EDA)
+
+- [자치구별 미세먼지 시각화](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/2_eda/자치구_별_미세먼지_시각화.ipynb)
+- [응급실 데이터 시각화](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/2_eda/응급실_데이터_시각화.ipynb)
+- [기온데이터 시각화](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/2_eda/기온데이터_시각화.ipynb)
+- [단순 상관관계 분석](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/2_eda/단순%20상관관계%20분석.ipynb)
+
+---
+
+#3 Time Series Forecasting
+
+- [2026년 가상 시나리오 예측진행 (Base / PM+30 / PM–20)](https://github.com/kde-devs/timeseries-analysis/blob/main/notebooks/3_prediction/2026년%20가상%20시나리오%20예측진행%20(Base%20_%20PM%2B30%20_%20PM–20)%20.ipynb)
+
 #  Expected Outcomes
 - 사전 대응 강화 : 미세먼지 급등 시 ER 수요 예측 → 의료진 및 장비 선제 배치 가능
 - 정책 근거 마련 : 미세먼지 경보 기준 재조정 및 대기질 개선 정책 설계에 기여
